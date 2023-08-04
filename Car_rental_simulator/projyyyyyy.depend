@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1656744240 source:c:\users\pf\desktop\proj2_mini\projyyyyyy\main.cpp
+	<iostream>
+	"cars.h"
+	"customer.h"
+	<strings.h>
+	"bus.h"
+	<conio.h>
+
+1656712647 c:\users\pf\desktop\proj2_mini\projyyyyyy\cars.h
+	<strings.h>
+	<iostream>
+
+1656707668 c:\users\pf\desktop\proj2_mini\projyyyyyy\customer.h
+	<strings.h>
+	<iostream>
+
+1656737827 c:\users\pf\desktop\proj2_mini\projyyyyyy\bus.h
+	<iostream>
+	<strings.h>
+
+1656742716 source:c:\users\pf\desktop\proj2_mini\projyyyyyy\function_conatiner.cpp
+	<iostream>
+	<strings.h>
+	"cars.h"
+	"customer.h"
+	"bus.h"
+
+1656742716 source:d:\c,c++ language\car_rental_simulator\function_conatiner.cpp
+	<iostream>
+	<strings.h>
+	"cars.h"
+	"customer.h"
+	"bus.h"
+
+1656712647 d:\c,c++ language\car_rental_simulator\cars.h
+	<strings.h>
+	<iostream>
+
+1656707668 d:\c,c++ language\car_rental_simulator\customer.h
+	<strings.h>
+	<iostream>
+
+1656750399 d:\c,c++ language\car_rental_simulator\bus.h
+	<iostream>
+	<strings.h>
+
+1656744240 source:d:\c,c++ language\car_rental_simulator\main.cpp
+	<iostream>
+	"cars.h"
+	"customer.h"
+	<strings.h>
+	"bus.h"
+	<conio.h>
+
